@@ -1,2 +1,3 @@
 # guppe
-Arquivos do curso de Python da Udemy. Todos foram acompanhados e digitados um a um. 
+Arquivos do curso de Python da Udemy.
+Curso de 63,5 horas.
